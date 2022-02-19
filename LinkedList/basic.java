@@ -1,3 +1,9 @@
+ //It consist :
+// 1- add node at First position in LinkedList.
+// 2- add node at Last position in LinkedList.
+// 3-delete node from Last  in LinkedList.
+// 4- delete node from first position in LinkedList. or delete the head node.
+
 package datastructure;
 
 public class LinkedList1 {
